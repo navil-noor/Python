@@ -1,3 +1,4 @@
+#Exclude replit as it only works in replit.com
 from replit import clear
 import random
 
@@ -19,7 +20,7 @@ for _ in range(word_length):
 
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
-
+    #Exclude clear() as it only works in replit
     clear()
 
     if guess in display:
