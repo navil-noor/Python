@@ -44,7 +44,7 @@ def calculator():
     calculation_function = operations[chosen_symbol]
     answer = calculation_function(num1, num2)
     
-    print(f"{num1} {chosen_symbol} {num2} {answer}")
+    print(f"{num1} {chosen_symbol} {num2}, result = {answer}")
   
     player_continue = input("Type 'y' for more calculation with {answer} or 'n' to make another calculation: ")
     if player_continue == 'y':
