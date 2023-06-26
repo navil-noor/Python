@@ -1,6 +1,6 @@
 # Task Manager Web App
 
-<h3>List of Projects:</h3>
+<h3>To Do:</h3>
 
 <ul>
   
