@@ -10,5 +10,10 @@
 
 <hr>
 
+<h3>Product Manager Project</h3>
+<p>Project created using Tkinter and Sqlalchemy
+
+<hr>
+
 <h3>Task Manager Web App Project</h3>
 <p>Project created using Flask and Sqlalchemy
