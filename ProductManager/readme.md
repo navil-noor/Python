@@ -1,5 +1,7 @@
 # Product Manager Desktop App
 
+<h2>It is a web application to manage tasks, allowing the user to create tasks, mark tasks as completed and delete tasks.</h2>
+
 <h3>To Do:</h3>
 
 <ul>
